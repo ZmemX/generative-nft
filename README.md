@@ -14,7 +14,7 @@ cd generative-nft
 npm install
 node index
 ```
-
+New-SmbServerCertificateMapping
 # Read the Full Tutorial
 
 I've written a full step-by-step tutorial walking through the code, as well as explaining some concepts such as "how to organize multiple collections", as well as "how to mint privately".
